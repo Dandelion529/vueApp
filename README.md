@@ -45,6 +45,9 @@ npm install node-loader -save
 vue移动端ui框架vant[guide](https://youzan.github.io/vant/#/zh-CN/intro)
 有赞线上组件支持，完善的文档和示例
 vant提供开发脚手架，通过vue-cli快速创建一个基于vant的项目。
-1. npm install youzan/
+1. vue init youzan/vue-cli-template-vant my-project
+2. npm i vant -S
+3. npm install
+4. npm run dev
 ```
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
